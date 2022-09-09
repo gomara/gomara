@@ -39,6 +39,7 @@
 ![Aws](https://img.shields.io/badge/-AWS-F7B93E?style=for-the-badge&logo=amazon&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![CodeWars](https://www.codewars.com/users/gomara/badges/micro?theme=light)
 
 
 
