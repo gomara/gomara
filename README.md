@@ -48,5 +48,5 @@
 </p>
 
 <h3>Portfolio</h3>
-<p><a href="[https://github.com/gomara](https://gomara.github.io/portfolio/)" target="_blank"><img alt="GithubPages" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+<p><a href="https://github.com/gomara" target="_blank"><img alt="GithubPages" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </p>
