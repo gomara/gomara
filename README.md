@@ -23,6 +23,7 @@
 
 ## Back-end
 ![Node Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Mongo Badge](https://img.shields.io/badge/-mongodb-339933?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-E34F26?style=for-the-badge&logo=django&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
