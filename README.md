@@ -4,6 +4,8 @@
 
 *Lead Software Engineer at [Kimche](https://www.kimche.co/)*
 
+*Check my [Portfolio](https://portfolio-q0hhbo0gz-cristobals-projects-ca6db0da.vercel.app/)*
+
 ## Languages
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-FCC624?style=for-the-badge&logo=JavaScript&logoColor=323330)
 ![typescript Badge](https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white)
