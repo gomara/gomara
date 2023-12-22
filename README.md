@@ -4,7 +4,7 @@
 
 *Lead Software Engineer at [Kimche](https://www.kimche.co/)*
 
-*Check my [Portfolio](https://portfolio-q0hhbo0gz-cristobals-projects-ca6db0da.vercel.app/)*
+*Check my [Portfolio](https://portfolio-pfv0syv6m-cristobals-projects-ca6db0da.vercel.app/)*
 
 ## Languages
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-FCC624?style=for-the-badge&logo=JavaScript&logoColor=323330)
@@ -18,6 +18,7 @@
 ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components Badge](https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
@@ -39,9 +40,12 @@
 ## Test
 ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-## Extras
+## Devops
 ![Aws](https://img.shields.io/badge/-AWS-F7B93E?style=for-the-badge&logo=amazon&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![CloudFare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+
+## Extras
 ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![CodeWars](https://www.codewars.com/users/gomara/badges/micro?theme=light)
 
