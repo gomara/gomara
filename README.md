@@ -1,8 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!</h1>
 
-**Welcome to my page!  I'm Cristobal, Fullstack developer from 🇨🇱 Santiago, Chile. currently living in 🇵🇹 Porto, Portugal.**
+**Welcome to my page!  I'm Cristobal, Fullstack developer from 🇨🇱 Santiago, Chile. currently living in 🇦🇪 Dubai, UAE.**
 
-*Lead Software Engineer at [Kimche](https://www.kimche.co/)*
+*Backend Engineer at [Uney](https://uney.com/)*
 
 *Check my [Portfolio](https://portfolio-pfv0syv6m-cristobals-projects-ca6db0da.vercel.app/)*
 
